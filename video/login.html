@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Login | CodeAdept 2.0</title>
+	<script type="text/javascript" src="Three.js"></script>
+	<script>
+  function preventBack(){window.history.forward();}
+  setTimeout("preventBack()", 0);
+  window.onunload=function(){null};
+</script>
+	<style type="text/css">
+	body{
+		background:url('tech2.jpg');
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-blend-mode:screen;
+		font-family:sans-serif;
+		font-size: 70%;
+		font-weight: normal;
+
+	}
+		 #form{
+			
+	 	
+    height: 500px;
+    background-color: rgba(0,0,0,0.9);
+    color: white;
+    margin-right: 15%;
+    margin-left: 15%;
+    margin-top: 5%;
+    width: 70%; 
+    float: right;
+	 	} 
+	 	form{
+	 		float: right;
+ 
+    size: 84%;
+    position: relative;
+    top: 37%;
+    right: 20%;
+    font-size: 33px;
+    background-color: black;
+	 	} 
+	 	.text{ 
+	 		background-color: black;
+	 		 border-radius: 25px;
+    border: 2px solid #0f434e;
+	 		width: 200px;
+	 		padding:3px;
+	 		color: white;
+	 	}
+	 	
+	 	#logo{
+
+	 		background-image: url('images/Logo Final.png');
+	 		width:500px;
+	 		height: 500px;
+	 		display: inline-block;
+		} 
+		#submitbutton{
+			padding:3%;
+			border-radius: 8px;
+			border: 2px solid #1c5c6d;
+			background-color: #1c5c6d;}
+			#submitbutton:hover{
+  background-color: #6ccfd8;
+  opacity:0.8;
+  
+}
+
+		}
+	 	
+	</style>
+</head>
+<body>
+	
+		
+	<div id="form"> 
+		<div id="logo"></div>
+	<form action="login.php" method="POST" onsubmit="return(hello())">
+	username:<br>
+	 <input type="text" class="text" name="username"><br><br>
+	password:<br> <input type="password" class="text" name="password"><br><br>
+	<input type="hidden" id="mytext" name="hh">
+	<input type="submit" id="submitbutton" value="Submit">
+
+	
+	</div>
+</body>
+</html>

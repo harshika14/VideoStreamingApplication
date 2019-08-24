@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:68
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTINF:67.434033,
+sample_video1.ts
+#EXTINF:58.391667,
+sample_video2.ts
+#EXTINF:58.391667,
+sample_video3.ts
+#EXTINF:59.292567,
+sample_video4.ts
+#EXTINF:63.630233,
+sample_video5.ts
+#EXTINF:12.112100,
+sample_video6.ts
+#EXT-X-ENDLIST

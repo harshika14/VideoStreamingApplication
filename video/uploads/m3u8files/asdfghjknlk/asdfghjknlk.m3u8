@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:68
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTINF:67.434033,
+asdfghjknlk1.ts
+#EXTINF:58.391667,
+asdfghjknlk2.ts
+#EXTINF:58.391667,
+asdfghjknlk3.ts
+#EXTINF:59.292567,
+asdfghjknlk4.ts
+#EXTINF:63.630233,
+asdfghjknlk5.ts
+#EXTINF:12.112100,
+asdfghjknlk6.ts
+#EXT-X-ENDLIST

@@ -1,0 +1,50 @@
+---
+- hosts: localhost
+  tasks:
+      - name: basic upload1
+        s3_sync:
+          bucket: test-7999837399
+          file_root: "{{ pathoftsfiles  }}"
+          validate_certs: false 
+          mode: push
+          key_prefix: "{{ folder }}"
+        tags:
+            - upload
+
+      - name: basic upload2
+        s3_sync:
+          bucket: test-7999837399
+          file_root: "{{ pathofm3u8files  }}"
+          validate_certs: false
+          mode: push
+          key_prefix: "{{ folder }}"
+        tags:
+            - upload
+
+      - name: basic upload3
+        s3_sync:
+          bucket: test-7999837399
+          file_root: "{{ pathofotherfiles  }}"
+          validate_certs: false
+          mode: push
+          key_prefix: "{{ folder }}"
+        tags:
+            - upload
+      
+      - name: get s3_bucket_items
+        aws_s3:
+           mode: list
+           bucket: test-7999837399
+           prefix: "{{ path2 }}" 
+        register: s3_bucket_items
+
+      - name: geturl 
+        copy:
+                 content: "{{ s3_bucket_items.s3_keys }}"  
+                 dest: "/etc/ansible/url.txt"
+        tags:
+           - geturl
+
+      - name: show url
+        debug:
+            var: s3_bucket_items.s3_keys

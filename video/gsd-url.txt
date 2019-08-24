@@ -1,0 +1,10 @@
+https://s3.amazonaws.com/ansible-harshika/gsd/gsd1.ts
+https://s3.amazonaws.com/ansible-harshika/gsd/gsd10.ts
+https://s3.amazonaws.com/ansible-harshika/gsd/gsd2.ts
+https://s3.amazonaws.com/ansible-harshika/gsd/gsd3.ts
+https://s3.amazonaws.com/ansible-harshika/gsd/gsd4.ts
+https://s3.amazonaws.com/ansible-harshika/gsd/gsd5.ts
+https://s3.amazonaws.com/ansible-harshika/gsd/gsd6.ts
+https://s3.amazonaws.com/ansible-harshika/gsd/gsd7.ts
+https://s3.amazonaws.com/ansible-harshika/gsd/gsd8.ts
+https://s3.amazonaws.com/ansible-harshika/gsd/gsd9.ts

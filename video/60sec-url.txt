@@ -1,0 +1,7 @@
+https://s3.amazonaws.com/ansible-harshika/60sec/60sec.m3u8
+https://s3.amazonaws.com/ansible-harshika/60sec/60sec1.ts
+https://s3.amazonaws.com/ansible-harshika/60sec/60sec2.ts
+https://s3.amazonaws.com/ansible-harshika/60sec/60sec3.ts
+https://s3.amazonaws.com/ansible-harshika/60sec/60sec4.ts
+https://s3.amazonaws.com/ansible-harshika/60sec/60sec5.ts
+https://s3.amazonaws.com/ansible-harshika/60sec/60sec6.ts

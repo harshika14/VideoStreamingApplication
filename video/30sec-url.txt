@@ -1,0 +1,9 @@
+https://s3.amazonaws.com/ansible-harshika/30sec/30sec1.ts
+https://s3.amazonaws.com/ansible-harshika/30sec/30sec2.ts
+https://s3.amazonaws.com/ansible-harshika/30sec/30sec3.ts
+https://s3.amazonaws.com/ansible-harshika/30sec/30sec4.ts
+https://s3.amazonaws.com/ansible-harshika/30sec/30sec5.ts
+https://s3.amazonaws.com/ansible-harshika/30sec/30sec6.ts
+https://s3.amazonaws.com/ansible-harshika/30sec/30sec7.ts
+https://s3.amazonaws.com/ansible-harshika/30sec/30sec8.ts
+https://s3.amazonaws.com/ansible-harshika/30sec/30sec9.ts

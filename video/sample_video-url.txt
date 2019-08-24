@@ -1,0 +1,7 @@
+https://s3.amazonaws.com/ansible-harshika/sample_video/sample_video.m3u8
+https://s3.amazonaws.com/ansible-harshika/sample_video/sample_video1.ts
+https://s3.amazonaws.com/ansible-harshika/sample_video/sample_video2.ts
+https://s3.amazonaws.com/ansible-harshika/sample_video/sample_video3.ts
+https://s3.amazonaws.com/ansible-harshika/sample_video/sample_video4.ts
+https://s3.amazonaws.com/ansible-harshika/sample_video/sample_video5.ts
+https://s3.amazonaws.com/ansible-harshika/sample_video/sample_video6.ts

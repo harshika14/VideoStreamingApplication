@@ -1,0 +1,7 @@
+https://s3.amazonaws.com/ansible-harshika/hod/hod.m3u8
+https://s3.amazonaws.com/ansible-harshika/hod/hod1.ts
+https://s3.amazonaws.com/ansible-harshika/hod/hod2.ts
+https://s3.amazonaws.com/ansible-harshika/hod/hod3.ts
+https://s3.amazonaws.com/ansible-harshika/hod/hod4.ts
+https://s3.amazonaws.com/ansible-harshika/hod/hod5.ts
+https://s3.amazonaws.com/ansible-harshika/hod/hod6.ts
